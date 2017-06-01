@@ -1,0 +1,64 @@
+Make sure that the default admin$ share is enabled on MAHESHB-PC.
+\\HAIKA-PC:
+Couldn't access HAIKA-PC:
+The network path was not found.
+
+Make sure that the default admin$ share is enabled on HAIKA-PC.
+\\F-852-PC-PC:
+Couldn't access F-852-PC-PC:
+Logon Failure: The target account name is incorrect.
+\\F1147-PC:
+Couldn't access F1147-PC:
+The network path was not found.
+
+Make sure that the default admin$ share is enabled on F1147-PC.
+\\F-806-PC:
+Couldn't access F-806-PC:
+The network path was not found.
+
+Make sure that the default admin$ share is enabled on F-806-PC.
+\\F-852-PC:
+
+msiexec started on F-852-PC with process ID 1420.
+\\F-1183-PC:
+Couldn't access F-1183-PC:
+Logon Failure: The target account name is incorrect.
+\\KARTHIK-PC:
+Couldn't access KARTHIK-PC:
+The network path was not found.
+
+Make sure that the default admin$ share is enabled on KARTHIK-PC.
+\\PRANALI-DELL:
+Couldn't access PRANALI-DELL:
+The network path was not found.
+
+Make sure that the default admin$ share is enabled on WIN8IE10.
+\\F-1172-PC:
+
+msiexec started on F-1172-PC with process ID 5288.
+\\F842PC:
+Couldn't access F842PC:
+The network path was not found.
+
+Make sure that the default admin$ share is enabled on F842PC.
+\\C:
+Couldn't access C:
+The network path was not found.
+
+Make sure that the default admin$ share is enabled on C.
+\\MAHESHB-PC:
+Couldn't access MAHESHB-PC:
+The network path was not found.
+
+Make sure that the default admin$ share is enabled on MAHESHB-PC.
+\\HAIKA-PC:
+Couldn't access HAIKA-PC:
+The network path was not found.
+
+Make sure that the default admin$ share is enabled on HAIKA-PC.
+\\F-852-PC-PC:
+Couldn't access F-852-PC-PC:
+Logon Failure: The target account name is incorrect.
+\\F1147-PC:
+Couldn't access F1147-PC:
+The network path was not found.
